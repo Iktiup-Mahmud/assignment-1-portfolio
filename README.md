@@ -1,19 +1,23 @@
-# Assignment 01 - Portfolio  
+# Assignment 01 - Portfolio
 
-## 📌 Overview  
-This project is designed as an introductory assignment for interns to practice and strengthen their skills in **HTML**, **CSS**, and **GitHub workflows**.  
+## Overview
 
-## 🏗️ Structure  
-- **HTML** – Building the structure of the portfolio  
-- **CSS** – Styling and layout design  
+This project is designed as an introductory assignment for interns to practice and strengthen their skills in **HTML**, **CSS**, and **GitHub workflows**.
 
-## ⏰ Deadline  
-- **2 Days**  
+## Structure
 
-## 💡 Note  
-Keep coding, keep learning, and always strive to improve. 🚀  
+- **HTML** – Building the structure of the portfolio
+- **CSS** – Styling and layout design
+
+## Deadline
+
+- **2 Days**
+
+## Note
+
+Keep coding, keep learning, and always strive to improve.
 
 ---
 
-✨ Best of luck,  
-**Seyam**  
+Best of luck,  
+**[Seyam](https://seyam.me)**
